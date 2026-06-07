@@ -1,11 +1,5 @@
-<!--
-**HoussemSalhiii/HoussemSalhiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->  
-
+![Hey there, I'm Houssem. I'm aartificial intelligence and automation engineering, a maker and infosec enthusiast. Check out my work](https://github.com/HoussemSalhiii/HoussemSalhiii/edit/main/header.gif)
 <h1 align="center"> 👋 </h1>
-<div align="center">
-  <img src="https://github.com/HoussemSalhiii/HoussemSalhiii/blob/master/images/header.gif" alt="header"/>
-</div>
 <p align="center"> (Open for Hiring)</p>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
