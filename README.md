@@ -1,16 +1,37 @@
-## Hi there 👋
-
 <!--
 **HoussemSalhiii/HoussemSalhiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--->  
 
-Here are some ideas to get you started:
+<h1 align="center"> 👋 </h1>
+<div align="center">
+  <img src="https://github.com/HoussemSalhiii/HoussemSalhiii/blob/master/images/header.gif" alt="header"/>
+</div>
+<p align="center"> (Open for Hiring)</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center"> 👨‍💻 Whoami</h2>
+<p align="center">
+  <samp>I am a student of artificial intelligence and automation engineering, and I can program in two languages. 
+  </samp>
+  <br> <br>
+  <img src="https://komarev.com/ghpvc/?username=HoussemSalhiii" alt="https://github.com/HoussemSalhiii" />
+</p>
+
+<hr>
+
+<h2 align="center"> 🔭 Tools of Trade</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/PyCharm%20-%2343853D.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Visual_Studio_Code%20-%2300D9FF.svg?&style=for-the-badge&logo=Visual_Studio_Code&logoColor=white" />&nbsp;&nbsp;&nbsp;
+</p>
+<p align="center">Python, Git, Github, C++.
+</p>
+<hr>
+
+<h2  align="center">📫 Reach me on</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/houssem-eddine-salhi0a9317414/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<hr>
+
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
