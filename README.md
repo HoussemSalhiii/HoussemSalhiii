@@ -1,3 +1,28 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=F7D000&text=Hello,%20I'm%20Houssem!&fontColor=000000&fontSize=60&animation=fadeIn"/>
+
+<h2>Automation and Intelligence Systems Engineer</h2>
+
+<br>
+
+<p>
+  <a href="https://github.com/HoussemSalhiii">
+    <img src="https://img.shields.io/badge/GitHub-F7D000?style=for-the-badge&logo=github&logoColor=000000"/>
+  </a>
+
+  <a href="https://linkedin.com/in/USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-F7D000?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+  </a>
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-F7D000?style=for-the-badge&logo=gmail&logoColor=000000"/>
+  </a>
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=HoussemSalhiii&show_icons=true&hide_border=true&title_color=000000&icon_color=F7D000&text_color=000000&bg_color=FFFFFF"/>
+
+</div>
 <h1 align="center"> 👋 </h1>
 <p align="center"> (Open for Hiring)</p>
 
