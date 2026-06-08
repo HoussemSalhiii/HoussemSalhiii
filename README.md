@@ -1,4 +1,3 @@
-![Hey there, I'm Houssem. I'm aartificial intelligence and automation engineering, a maker and infosec enthusiast. Check out my work](https://github.com/HoussemSalhiii/HoussemSalhiii/edit/main/header.gif)
 <h1 align="center"> 👋 </h1>
 <p align="center"> (Open for Hiring)</p>
 
