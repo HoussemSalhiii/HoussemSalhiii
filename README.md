@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/GitHub-F7D000?style=for-the-badge&logo=github&logoColor=000000"/>
   </a>
 
-  <a href="https://linkedin.com/in/USERNAME">
+  <a href="https://linkedin.com/in/HOUSSEM EDDINE SALHI">
     <img src="https://img.shields.io/badge/LinkedIn-F7D000?style=for-the-badge&logo=linkedin&logoColor=000000"/>
   </a>
 
