@@ -15,9 +15,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-F7D000?style=for-the-badge&logo=linkedin&logoColor=000000"/>
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-F7D000?style=for-the-badge&logo=gmail&logoColor=000000"/>
-  </a>
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=HoussemSalhiii&show_icons=true&hide_border=true&title_color=000000&icon_color=F7D000&text_color=000000&bg_color=FFFFFF"/>
