@@ -25,7 +25,7 @@
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>I am a student of artificial intelligence and automation engineering, and I can program in two languages. 
+  <samp>I am a student of artificial intelligence and automation engineering, and I can program in two languages Pyhon, C++. 
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=HoussemSalhiii" alt="https://github.com/HoussemSalhiii" />
